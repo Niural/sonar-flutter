@@ -60,7 +60,7 @@
 
         <sonar.plugin.api.version>13.4.3.4290</sonar.plugin.api.version>
 
-        <assertj.version>3.5.2</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <junit.version>4.13.1</junit.version>
         <mockito.version>5.11.0</mockito.version>
         <ant.version>1.6</ant.version>
